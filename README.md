@@ -14,9 +14,9 @@ Markdown: Syntax
 
 * * *
 
-<h2 id="#overview"> 概述 </h2>
+<h2 id="overview"> 概述 </h2>
 
-<h3 id="#description"> 比賽敘述 </h3>
+<h3 id="description"> 比賽敘述 </h3>
 
 在這次比賽中，Kagglers將開發能夠在顯微鏡圖像中對蛋白質的混合模式進行分類的模型。
 人類蛋白質圖譜將使用這些模型構建與其智能顯微鏡系統集成的工具，以從高通量圖像中識別蛋白質的位置。
@@ -38,9 +38,9 @@ Markdown: Syntax
 
 
 
-<h2 id="#"> 未完</h2>
+<h2 id=""> 未完</h2>
 
-<h3 id="#"> ~ </h3>
+<h3 id=""> ~ </h3>
 
 <h2 id="acknowledgement"> 致謝 </h2>
 要謝就謝天吧！
